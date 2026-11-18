@@ -61,9 +61,9 @@
 
   <!-- Live Status Pill -->
   <g transform="translate(316, 66)">
-    <rect width="346" height="30" rx="15" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <rect width="356" height="30" rx="15" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.45"/>
     <circle cx="18" cy="15" r="4.5" fill="#22C55E"/>
-    <text x="32" y="19.5" fill="#7DD3FC" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif" font-size="11.5" font-weight="600" letter-spacing="1.3">APPLE ECOSYSTEM · OPEN SOURCE LAB</text>
+    <text x="32" y="19.5" fill="#7DD3FC" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif" font-size="11.5" font-weight="600" letter-spacing="1.2">APPLE ECOSYSTEM · OPEN SOURCE LAB</text>
   </g>
 
   <!-- Main Heading -->
