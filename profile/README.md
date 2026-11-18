@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vishal-iOS-Labs/.github/main/profile/banner.svg" alt="Vishal iOS Labs Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Vishal-iOS-Labs/.github/main/profile/banner.svg?v=2" alt="Vishal iOS Labs Banner" width="100%" />
 
   <br/><br/>
 
